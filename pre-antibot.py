@@ -11,18 +11,18 @@ import subprocess
 
 # Define a list of user credentials
 user_credentials = [
-    #{"username": "bang.dive@gmail.com", "password": "wag1winebar"},
-    #{"username": "tune.pulp@gmail.com", "password": "wag1winebar"},
-   # {"username": "pair.sunk@gmail.com", "password": "wag1winebar"},
-  #  {"username": "pull.bout@gmail.com", "password": "wag1winebar"},
- #   {"username": "goal.wipe@gmail.com", "password": "wag1winebar"},
-#    {"username": "ruin.band@gmail.com", "password": "wag1winebar"},
-    #{"username": "self.cent@gmail.com", "password": "wag1winebar"},
-   # {"username": "plot.drag@gmail.com", "password": "wag1winebar"},
-  #  {"username": "shed.grip@gmail.com", "password": "wag1winebar"},
- #   {"username": "laid.dean@gmail.com", "password": "wag1winebar"},
-#    {"username": "bath.sail@gmail.com", "password": "wag1winebar"}
-    {"username": "tune.pulp@gmail.com  ", "password": "wag1winebar"}
+    #{"username": "bang.dive@gmail.com", "password": "PW"},
+    #{"username": "tune.pulp@gmail.com", "password": "PW"},
+   # {"username": "pair.sunk@gmail.com", "password": "PW"},
+  #  {"username": "pull.bout@gmail.com", "password": "PW"},
+ #   {"username": "goal.wipe@gmail.com", "password": "PW"},
+#    {"username": "ruin.band@gmail.com", "password": "PW"},
+    #{"username": "self.cent@gmail.com", "password": "PW"},
+   # {"username": "plot.drag@gmail.com", "password": "PW"},
+  #  {"username": "shed.grip@gmail.com", "password": "PW"},
+ #   {"username": "laid.dean@gmail.com", "password": "PW"},
+#    {"username": "bath.sail@gmail.com", "password": "PW"}
+    {"username": "tune.pulp@gmail.com  ", "password": "PW"}
 ]
 
 def sync_time_ntp():
